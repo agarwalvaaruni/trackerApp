@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "label": "Complete Application Development",
+      "description": "Complete Application Development",
+      "category": "IT",
+      "done": false,
+      "yp": "YP1"
+    },
+    {
+      "id": 3,
+      "label": "Read Encroachment Details",
+      "description": "Read Encroachment Details",
+      "category": "Civil",
+      "done": "22-04-2024",
+      "yp": "YP2"
+    },
+    {
+      "id": 5,
+      "label": "Sample Task",
+      "description": "Add details about task",
+      "category": "Civil",
+      "yp": "YP3",
+      "done": false
+    }
+  ]
+}
